@@ -12,5 +12,8 @@
 
 - [ ] Som administratör vill jag kunna uppdatera produkters information.
 
-- [ ] Som administratör vill jag kunna ta bort en produkt.
+- [ ] Som administratör vill jag kunna ta bort en produkt
+ 
+- [ ] Som användare vill jag kunna välja språk som webbsidan ska visas med. (engelska/svenska)
+
 
